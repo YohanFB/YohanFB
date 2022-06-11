@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>🖖🏼 Bem-vindo(a) | Welcome</h1>
+<p><strong>Estudante de ciência da computação e aspirante à engenheiro de software</strong></p>
 
-<!--
-**YohanFB/YohanFB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/YohanFB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YohanFB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanFB&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+  ##
+  
+  <h2>Rede social</h2>
+  
+  <a href="https://www.linkedin.com/in/yohanfb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
